@@ -1,0 +1,1 @@
+{"uuid":"e410ed2c-42af-4aba-97ee-d016b97917a0","name":"TTA3xSeleniumFramework","children":["f9b42cc4-8044-429d-974c-3744c4308819"],"befores":[{"name":"setConfig","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694530472690,"stop":1694530472690}],"afters":[],"start":1694530472687,"stop":1694530472752}
